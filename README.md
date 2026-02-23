@@ -52,5 +52,4 @@ This backend API allows users to:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/hotel-booking-api.git
    cd hotel-booking-api
